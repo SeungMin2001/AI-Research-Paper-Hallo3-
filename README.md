@@ -21,4 +21,7 @@ This is a place to study the AI model 'Hello3'.<br>
 - The approach we proposed demonstrates substantial improvements.<br>
   ("substantial improvments" <-- 🔥)
 ---
+#### Study Log
+
+---
 ## Introduction
