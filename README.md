@@ -17,7 +17,7 @@ This is a place to study the AI model 'Hello3'.<br>
 - The authors stated that:
   - we design an identity reference network consisting of a causal 3D VAE combined with a stacked series of transformer layers,
     ensuring consistent facial identity across video sequences.<br>
-    (기존 U-NET 방식에서 3D VAE 방식으로 바꿔서 진행)
+    (기존 U-NET 방식에서 (3D VAE+stacked series of transformer layers) 방식으로 바꿔서 진행)
 - The approach we proposed demonstrates substantial improvements.<br>
   ("substantial improvments" <-- 🔥)
 ---
