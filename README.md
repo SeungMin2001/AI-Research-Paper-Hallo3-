@@ -22,6 +22,8 @@ This is a place to study the AI model 'Hello3'.<br>
   ("substantial improvments" <-- 🔥)
 ---
 #### Study Log
-
+- U-NET, 3D VAE 이 두개의 모델에 대해 완전히 이해하고 구현한걸 여기에 저장하자
+  [U-NET]()
+  [3D VAE]()
 ---
 ## Introduction
