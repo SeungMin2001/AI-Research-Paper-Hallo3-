@@ -1,6 +1,7 @@
 # AI-Research-Paper-Hello3-
 This is a place to study the AI model 'Hello3'.<br>
-- Authors: Jiahao Cui, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu  
+- Authors: Jiahao Cui, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
+- Submitted on 1 Dec 2024 (v1), last revised 4 Jan 2025 (this version, v3)
 - 'Hello3' Paper link -> [Research Paper](https://arxiv.org/abs/2412.00733v3)
 - 'Hello3' github -> [github](https://fudan-generative-vision.github.io/hallo3)
 ---
@@ -10,7 +11,7 @@ This is a place to study the AI model 'Hello3'.<br>
 
 ## Abstract
 - Existing methodologies for animating portrait images face significant, which are as follows:
-  - frontal perspectives (정면적 관점)
+  - handling Non-frontal perspectives (비정면적 관점 처리)
   - rendering dynamic objects around the portrait (초상화 주위의 동적 객체 렌더링)
   - generating immersive, realistic backgrounds (몰입감 있고 현실적인 배경 생성)
 - The authors stated that:
@@ -18,3 +19,4 @@ This is a place to study the AI model 'Hello3'.<br>
     ensuring consistent facial identity across video sequences. (기존 U-NET 방식에서 3D VAE 방식으로 바꿔서 진행)
 - The approach we proposed demonstrates substantial improvements.
 ---
+## Introduction
