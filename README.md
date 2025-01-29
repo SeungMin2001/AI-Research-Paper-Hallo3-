@@ -1,9 +1,9 @@
-# AI-Research-Paper-Hello3-
-This is a place to study the AI model 'Hello3'.<br>
+# AI-Research-Paper-Hallo3-
+This is a place to study the AI model 'Hallo3'.<br>
 - Authors: Jiahao Cui, Hui Li, Yun Zhan, Hanlin Shang, Kaihui Cheng, Yuqi Ma, Shan Mu, Hang Zhou, Jingdong Wang, Siyu Zhu
 - Submitted on 1 Dec 2024 (v1), last revised 4 Jan 2025 (this version, v3)
-- 'Hello3' Paper link -> [Research Paper](https://arxiv.org/abs/2412.00733v3)
-- 'Hello3' github -> [github](https://fudan-generative-vision.github.io/hallo3)
+- 'Hallo3' Paper link -> [Research Paper](https://arxiv.org/abs/2412.00733v3)
+- 'Hallo3' github -> [github](https://fudan-generative-vision.github.io/hallo3)
 ---
 <img src='gradio.png' width=700>
 
@@ -27,3 +27,15 @@ This is a place to study the AI model 'Hello3'.<br>
   - [3D VAE](3D-VAE.md)
 ---
 ## Introduction
+  - Existing portrait image animation have utilized facial landmarkes,3D parametric models,generative adversarial networks(GAN) and diffusion models.<br>
+  ->> However
+    - these methods rely on frontal and central face images.
+    - making it difficult to handle side, overhead, and low-angle views.
+    - they assume a static background, which limits thier ability to effectively reflect dynamic foreground and background changes.<br>
+    
+  - The method we used address this issue
+    1. We applied a pre-trained DIT-based video generation model to portrait image animation for the first time.
+    2. Identity Preservation (3D VAE+트랜스포머 레이어)
+    3. Speech Audio Conditioning (오디오를 움직임 제어 정보로 활용)
+    4. Video Extrapolation (비디오 외삽)
+        
