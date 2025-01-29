@@ -27,6 +27,7 @@ This is a place to study the AI model 'Hallo3'.<br>
   - [3D VAE](3D-VAE.md)
 ---
 ## Introduction
+<img src='Figure1.png' width=700>
   - Existing portrait image animation have utilized facial landmarkes,3D parametric models,generative adversarial networks(GAN) and diffusion models.<br>
   ->> However
     - these methods rely on frontal and central face images.
